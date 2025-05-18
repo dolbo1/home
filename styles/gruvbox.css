@@ -9,7 +9,7 @@ body {
   display: flex;
   color: #fdf6e3;
   background: #32302F;
-  font-family: 'SF Pro Text';
+  font-family: 'SF Pro Text', sans-serif;
   /* font-family: 'JetBrains Mono'; */
   margin-right: 9em;
   padding: 1em;
